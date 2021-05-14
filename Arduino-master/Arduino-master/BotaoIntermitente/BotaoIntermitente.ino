@@ -1,5 +1,5 @@
 // Projeto: Mudança de estado do LED regulado por um botão
-// Desenvolvido por Santiago Fleitas
+// Desenvolvido por Gabriel Muller
 
 int led = 2; // Pino 2
 int botao = 3; // Pino 3
