@@ -1,4 +1,4 @@
-// Desenvolvido por Santiago Fleitas
+// Desenvolvido por Gabriel Muller
 // Projeto: Sensor de luminosidade
 // Os valores vão de 0 a 1023 na porta lógica de 10bits(A0)
 // No console do serial será informado valores númericos que expressaram quanta luminosidade há no ambiente
