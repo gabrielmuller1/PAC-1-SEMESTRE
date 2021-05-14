@@ -1,5 +1,5 @@
 // Projeto: Semáforo LED (Versão rápida)
-// Desenvolvido por Santiago Fleitas
+// Desenvolvido por Gabriel Muller
 
 void setup()
 {
